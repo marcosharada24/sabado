@@ -1,1 +1,2 @@
-Nova alteração que vai gerar conflito
+versão remota: conflito garantido
+
